@@ -1,10 +1,8 @@
 {
-  "en": {
-    "login": "Login",
-    "logout": "Logout"
-  },
-  "tr": {
-    "login": "Giriş",
-    "logout": "Çıkış"
-  }
+  "main": [
+    "https://raw.githubusercontent.com/ekoRemDev/flyingpigsbe_resources/main/banners/carl-raw-o59Gt5O4QZ4-unsplash.jpg",
+    "https://raw.githubusercontent.com/ekoRemDev/flyingpigsbe_resources/main/banners/nikola-jovanovic-QGPmWrclELg-unsplash.jpg",
+    "https://raw.githubusercontent.com/ekoRemDev/flyingpigsbe_resources/main/banners/willian-justen-de-vasconcellos-Opvi6-9oS5s-unsplash.jpg",
+    "https://raw.githubusercontent.com/ekoRemDev/flyingpigsbe_resources/main/banners/yannis-papanastasopoulos-8RRPagVz9_Y-unsplash.jpg"
+  ]
 }
