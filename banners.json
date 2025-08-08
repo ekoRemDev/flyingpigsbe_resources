@@ -1,0 +1,10 @@
+{
+  "en": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "tr": {
+    "login": "Giriş",
+    "logout": "Çıkış"
+  }
+}
