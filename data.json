@@ -1,4 +1,10 @@
 {
-  "name": "Ekrem",
-  "age": 30
+  "en": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "tr": {
+    "login": "Giriş",
+    "logout": "Çıkış"
+  }
 }
